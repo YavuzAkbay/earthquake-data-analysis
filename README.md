@@ -1,3 +1,5 @@
+Tableau Link: https://public.tableau.com/shared/PJ73NN9JH?:display_count=n&:origin=viz_share_link
+
 The aim of this study is to visualize the earthquakes with a minimum magnitude of 2 that occurred in the Marmara region of Turkey in the last 10 years. The source from which I took the earthquake data while carrying out the study was the US Geological Survey (USGS).
 Three Python libraries were used in the study. "Requests" to retrieve data from the US Geological Survey (USGS) database via API; "Pandas" to make queries on the data sets we capture, filter, combine, group and analyze the data; "Folium" library was used to visualize the data we processed on an interactive map. Visualizations were done not only within Python using the Folium library, but also outside of Python using Tableau.
 
